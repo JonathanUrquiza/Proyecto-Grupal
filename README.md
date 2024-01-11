@@ -8,6 +8,41 @@ Este proyecto esta siendo desarroyado por un pequeño grupo, emulando el trabajo
 
 Diseñar una aplicacion web de venta de funkos, completando con formulario de consultas, información de shop.
 
+
+
+## SDLC Phases:
+
+__Phase 1:__ Formation (Proyect initiation):
+    Rougth order of magnitude (ROM).
+    Proyect development estimate.
+
+__Phase 2:__ Requiremente/Planning (Requiremente Definition):
+    Poyect managment plan (Charater).
+    Functional Requirement.
+    Techinical requirements.
+    Requirements review & approval.
+    Statement of work.
+
+__Phase 3:__ Desing (Desing):
+    Internal/External.
+    Design reviews.
+    Detailed proyect development.
+
+__Phase 4:__ Construct (Construct):
+    Prototype.
+    Code review.
+
+__Phase 5:__ Test (Test):
+    System test.
+    Test summary.
+
+__Phase 6:__ Product Release (Product Release):
+    Operational acceptance.
+    Acceptance document.
+
+__Phase 7:__ Post Implementation (Enhancement mantenance).
+    Proyect implementation notice.
+
 ## Paginas a desarrollar:
 
 ##  Frontend

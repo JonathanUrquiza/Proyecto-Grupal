@@ -10,7 +10,7 @@ Diseñar una aplicacion web de venta de funkos, completando con formulario de co
 
 
 
-## SDLC Phases:
+# SDLC Phases:
 
 __Phase 1:__ Formation (Proyect initiation):
     Rougth order of magnitude (ROM).
@@ -36,6 +36,14 @@ __Phase 5:__ Test (Test):
     System test.
     Test summary.
 
+## Fases STLC
+    __1)__ Analisis de requisitos.
+    __2)__ Planificación de pruebas.
+    __3)__ Desarrollo de casi de pruebas.
+    __4)__ Configuración del entorno de prueba.
+    __5)__ Ejecución de prueba.
+    __6)__ Cierre del ciclo de pruebas.
+
 __Phase 6:__ Product Release (Product Release):
     Operational acceptance.
     Acceptance document.
@@ -43,7 +51,11 @@ __Phase 6:__ Product Release (Product Release):
 __Phase 7:__ Post Implementation (Enhancement mantenance).
     Proyect implementation notice.
 
-## Paginas a desarrollar:
+# Metodología Agile:
+
+__SCRUM__
+
+# Paginas a desarrollar:
 
 ##  Frontend
     -Login.
@@ -60,31 +72,31 @@ __Phase 7:__ Post Implementation (Enhancement mantenance).
     -Update item.
 
 
-## ⚙️ Herramientas utilizadas:
+# ⚙️ Herramientas utilizadas:
 
-- HTML
+## - HTML
 
-- CSS
+## - CSS
     - Flex
     - Grid
     - Bootstrap
 
-- JavaScript
+## - JavaScript
 
-- Node JS
+## - Node JS
     - Express JS
 
-- MySQL
+## - MySQL
 
 
-_Trabajo para_:
+# _Trabajo para_:
 
-## UX: _Research y prototipado_
-## UI: _Diseño de cada pagina_
-## Frontend Dev: __Maquetación de cada  página__
-## Backend Dev: __Creación de la base de datos, lógica y control de los datos (API o con motor de plantillas)__
-## Tester QC/QA: __Crear test para validar los errores en cada página.__
-## DevOps: __Crear un deploy para 3 ambientes: dev. Stagin y producción.__
+## UX: `Research y prototipado`
+## UI: `Diseño de cada pagina`
+## Frontend Dev: `Maquetación de cada  página`
+## Backend Dev: `Creación de la base de datos, lógica y control de los datos` (API o con motor de plantillas)
+## Tester QC/QA: `Crear test para validar los errores en cada página`.
+## DevOps: `Crear un deploy para 3 ambientes: dev. Stagin y producción`.
 
 
 _Autor/a:_ Jonathan Javier Urquiza, Dario Molina, Ezequiel schepke.

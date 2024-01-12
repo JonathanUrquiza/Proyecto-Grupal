@@ -1,6 +1,6 @@
 ![Imagen de banner funjoshop](./public/recursos/funkos-banner.webp)
 
-🚀 ![logo isotipo de FunkoShop](./public/recursos/branding/isotype.svg) Funkohop
+🚀 ![logo isotipo de FunkoShop](./public/recursos/branding/logo_light_horizontal.svg) Funkohop
 
 
 Este proyecto esta siendo desarroyado por un pequeño grupo, emulando el trabajo de desarrollo de un equipo, llevando adelante las practicas de la planificación, comunicación, testing funcional del mismo.

@@ -1,6 +1,7 @@
-![alt](./public/recursos/funkos-banner.webp)
+![Imagen de banner funjoshop](./public/recursos/funkos-banner.webp)
 
-# 🚀 FUNKOSHOP
+# 🚀 ![logo isotipo de FunkoShop](./public/recursos/branding/logo_light_horizontal.svg)
+
 
 Este proyecto esta siendo desarroyado por un pequeño grupo, emulando el trabajo de desarrollo de un equipo, llevando adelante las practicas de la planificación, comunicación, testing funcional del mismo.
 
@@ -13,43 +14,44 @@ Diseñar una aplicacion web de venta de funkos, completando con formulario de co
 # SDLC Phases:
 
 __Phase 1:__ Formation (Proyect initiation):
-    Rougth order of magnitude (ROM).
-    Proyect development estimate.
+  - Rougth order of magnitude (ROM).
+  - Proyect development estimate.
 
 __Phase 2:__ Requiremente/Planning (Requiremente Definition):
-    Poyect managment plan (Charater).
-    Functional Requirement.
-    Techinical requirements.
-    Requirements review & approval.
-    Statement of work.
+  - Poyect managment plan (Charater).
+  - Functional Requirement.
+  - Techinical requirements.
+  - Requirements review & approval.
+  - Statement of work.
 
 __Phase 3:__ Desing (Desing):
-    Internal/External.
-    Design reviews.
-    Detailed proyect development.
+  - Internal/External.
+  - Design reviews.
+  - Detailed proyect development.
 
 __Phase 4:__ Construct (Construct):
-    Prototype.
-    Code review.
+  - Prototype.
+  - Code review.
 
 __Phase 5:__ Test (Test):
-    System test.
-    Test summary.
+  - System test.
+  - Test summary.
 
 ## Fases STLC
-    __1)__ Analisis de requisitos.
-    __2)__ Planificación de pruebas.
-    __3)__ Desarrollo de casi de pruebas.
-    __4)__ Configuración del entorno de prueba.
-    __5)__ Ejecución de prueba.
-    __6)__ Cierre del ciclo de pruebas.
+
+    1) Analisis de requisitos.
+    2) Planificación de pruebas.
+    3) Desarrollo de casi de pruebas.
+    4) Configuración del entorno de prueba.
+    5) Ejecución de prueba.
+    6) Cierre del ciclo de pruebas.
 
 __Phase 6:__ Product Release (Product Release):
-    Operational acceptance.
-    Acceptance document.
+  - Operational acceptance.
+  - Acceptance document.
 
 __Phase 7:__ Post Implementation (Enhancement mantenance).
-    Proyect implementation notice.
+  - Proyect implementation notice.
 
 # Metodología Agile:
 
@@ -91,12 +93,23 @@ __SCRUM__
 
 # _Trabajo para_:
 
-## UX: `Research y prototipado`
-## UI: `Diseño de cada pagina`
-## Frontend Dev: `Maquetación de cada  página`
-## Backend Dev: `Creación de la base de datos, lógica y control de los datos` (API o con motor de plantillas)
-## Tester QC/QA: `Crear test para validar los errores en cada página`.
-## DevOps: `Crear un deploy para 3 ambientes: dev. Stagin y producción`.
+## UX: 
+Research y prototipado.
+
+## UI:
+Diseño de cada pagina.
+
+## Frontend Dev: 
+Maquetación de cada  página.
+
+## Backend Dev: 
+Creación de la base de datos, lógica y control de los datos `(API o con motor de plantillas)`
+
+## Tester QC/QA: 
+Crear test para validar los errores en cada página.
+
+## DevOps: 
+Crear un deploy para 3 ambientes: dev. Stagin y producción.
 
 
 _Autor/a:_ Jonathan Javier Urquiza, Dario Molina, Ezequiel schepke.

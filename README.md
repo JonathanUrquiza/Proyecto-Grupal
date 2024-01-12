@@ -33,18 +33,17 @@ __Phase 4:__ Construct (Construct):
   - Prototype.
   - Code review.
 
-__Phase 5:__ Test (Test):
+__Phase 5:__ Test (:mag:):
   - System test.
   - Test summary.
 
-## Fases STLC
-
-    1) Analisis de requisitos.
-    2) Planificación de pruebas.
-    3) Desarrollo de casi de pruebas.
-    4) Configuración del entorno de prueba.
-    5) Ejecución de prueba.
-    6) Cierre del ciclo de pruebas.
+### Fases STLC 	
+    - .1) Analisis de requisitos.
+    - .1) Planificación de pruebas.
+    - .1) Desarrollo de casi de pruebas.
+    - .1) Configuración del entorno de prueba.
+    - .1) Ejecución de prueba.
+    - .1) Cierre del ciclo de pruebas.
 
 __Phase 6:__ Product Release (Product Release):
   - Operational acceptance.

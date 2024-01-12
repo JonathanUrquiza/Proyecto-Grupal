@@ -33,7 +33,7 @@ __Phase 4:__ Construct (Construct):
   - Prototype.
   - Code review.
 
-__Phase 5:__ Test (:mag:):
+__Phase 5:__ Test (🔍):
   - System test.
   - Test summary.
 

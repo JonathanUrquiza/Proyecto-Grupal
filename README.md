@@ -107,6 +107,30 @@ Creación de la base de datos, lógica y control de los datos `(API o con motor 
 ## Tester QC/QA: 
 Crear test para validar los errores en cada página.
 
+### Testing Funcional
+    - Exploratory testing.
+    - GUI testing.
+    - API testing.
+    - Database testing.
+    - End to end testing (E2E).
+    - Re-testing.
+    - Regression testing.
+    - Smoke testing (para unit testing).
+    - Sanity testing (para unit testing).
+
+### Testing `__NO__` Funcional
+    - Security testing.
+    - Availabity testing.
+    - Efficiency testing.
+    - Integrity testing.
+    - Reliability testing (E2E).
+    - Survivability testing.
+    - Usability testing.
+    - Performace testing (para unit testing).
+    - Load/Stress testing (para unit testing).
+    - & More...
+
+
 ## DevOps: 
 Crear un deploy para 3 ambientes: dev. Stagin y producción.
 

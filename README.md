@@ -38,12 +38,12 @@ __Phase 5:__ Test (🔍):
   - Test summary.
 
 ### Fases STLC 	
-   .1 Analisis de requisitos.
-   .2 Planificación de pruebas.
-   .3 Desarrollo de casi de pruebas.
-   .4 Configuración del entorno de prueba.
-   .5 Ejecución de prueba.
-   .6 Cierre del ciclo de pruebas.
+    - .1 Analisis de requisitos.
+    - .2 Planificación de pruebas.
+    - .3 Desarrollo de casi de pruebas.
+    - .4 Configuración del entorno de prueba.
+    - .5 Ejecución de prueba.
+    - .6 Cierre del ciclo de pruebas.
 
 __Phase 6:__ Product Release (Product Release):
   - Operational acceptance.

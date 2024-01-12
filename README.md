@@ -38,12 +38,12 @@ __Phase 5:__ Test (🔍):
   - Test summary.
 
 ### Fases STLC 	
-    - .1) Analisis de requisitos.
-    - .1) Planificación de pruebas.
-    - .1) Desarrollo de casi de pruebas.
-    - .1) Configuración del entorno de prueba.
-    - .1) Ejecución de prueba.
-    - .1) Cierre del ciclo de pruebas.
+    - .1 Analisis de requisitos.
+    - .1 Planificación de pruebas.
+    - .1 Desarrollo de casi de pruebas.
+    - .1 Configuración del entorno de prueba.
+    - .1 Ejecución de prueba.
+    - .1 Cierre del ciclo de pruebas.
 
 __Phase 6:__ Product Release (Product Release):
   - Operational acceptance.
@@ -118,7 +118,7 @@ Crear test para validar los errores en cada página.
     - Smoke testing (para unit testing).
     - Sanity testing (para unit testing).
 
-### Testing `__NO__` Funcional
+### Testing `NO` Funcional
     - Security testing.
     - Availabity testing.
     - Efficiency testing.
